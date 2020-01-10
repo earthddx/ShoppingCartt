@@ -124,6 +124,12 @@
         "id": "21",
         "isFavorite": false,
         "price": "8.99"
+    },    
+    {
+        "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic22.jpg?raw=true",
+        "id": "22",
+        "isFavorite": false,
+        "price": "0.99"
     }
 
 ]
